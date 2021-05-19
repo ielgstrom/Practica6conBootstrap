@@ -1,0 +1,20 @@
+
+:root{
+      --color-titol: rgb(31, 34, 71);
+      --color-body: rgb(178, 178, 180);
+      --color-lateral: rgb(157, 159, 161);
+}
+
+header, footer{
+  background-color: var(--color-titol);
+  color: white;
+
+}
+
+.noticies{
+  background-color: var(--color-body)
+}
+
+.barra-lateral{
+  background-color: var(--color-lateral);
+}
